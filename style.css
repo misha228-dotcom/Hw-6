@@ -10,13 +10,7 @@ body {
   }
   .cards {
     display: flex;
-  }
-  .card {
-    text-align: center;
-    width: 28%;
-    border: 5px solid #d618a3;
-    margin: 20px;
-    padding: 10px;
+  
   }
   img {
     width: 100%;
